@@ -1,0 +1,1 @@
+# Omniauth strategy for Heello
