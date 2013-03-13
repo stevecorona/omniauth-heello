@@ -75,6 +75,6 @@ If you to go `/auth/heello`, it'll log you in with Heello, and you'll see someth
 
 ## Supported Rubies
 
-OmniAuth Heello is tested under 1.8.7, 1.9.2, 1.9.3 and Ruby Enterprise Edition.
+OmniAuth Heello is tested under 1.9x
 
 ![Travis Status](https://secure.travis-ci.org/stevecorona/omniauth-heello.png)
