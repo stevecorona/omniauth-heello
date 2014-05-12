@@ -1,3 +1,5 @@
+**This project is abandonded— I no longer work for Twitpic/Heello. It's probably not a good idea to use this.**
+
 # Omniauth strategy for Heello
 
 Working, very easy to use OmniAuth strategy for [Heello](https://heello.com)-- Uses OAuth2.
