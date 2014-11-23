@@ -1,4 +1,6 @@
-**This project is abandonded— I no longer work for Twitpic/Heello. It's probably not a good idea to use this.**
+**This project is abandonded— I no longer work for Twitpic/Heello. It's probably not a good idea to use this.**\
+
+**Heello is dead. This is just a relic from the past. Move on :) **
 
 # Omniauth strategy for Heello
 
